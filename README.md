@@ -1,3 +1,8 @@
+> **foxnaim** · Минималистичная библиотека создания PDF без зависимостей
+>
+> Готовая основа под клиентский проект. Стек: TypeScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # tinypdf
 
 [![npm](https://img.shields.io/npm/v/tinypdf)](https://www.npmjs.com/package/tinypdf)
